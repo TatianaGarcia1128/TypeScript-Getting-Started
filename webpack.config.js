@@ -17,6 +17,7 @@ module.exports = {
   output: {
     filename: 'bundle.js'
   },
+  // Configura el servidor web
   devServer: {
     inline: false
   }
